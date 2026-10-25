@@ -1,3 +1,13 @@
+## Français
+
+Tableau communautaire de bounties pour les développeurs qui construisent avec Claude Code. Exemple : publier une tâche, la réclamer ou contribuer à un projet selon les règles du tableau.
+
+## English
+
+A community bounty board for developers building with Claude Code. Example: post a task, claim one, or contribute to a project under the board’s rules.
+
+---
+
 # Claude Builders Bounty 🤖
 
 > A community bounty board for Claude Code builders.
